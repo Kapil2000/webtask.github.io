@@ -1,0 +1,27 @@
+body{
+    background-color: #F8EDE3;
+}
+.container{
+    margin-top: 10%;
+    width: 50%;
+    height: 40%;
+    border:4px solid black;
+    border-radius: 6px;
+    
+}
+img {
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 3px;
+    width: 150px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+.check-box{
+  width: 20px;
+  background-color: white;
+  border: none;
+  position: relative;
+  bottom: 14vh;
+  left: 0.2vw;
+}
